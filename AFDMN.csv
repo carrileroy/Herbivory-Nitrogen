@@ -1,0 +1,73 @@
+ID,tag,nitrogen,type,sex,harvest,days,lnAFDM
+E-1 mesh abscised,1089,0,natural,F,EH2,21,4.322501443
+E-1 mesh abscised,1091,0,natural,F,EH1,6,4.339056718
+E-1 mesh abscised,1092,0,natural,F,EH3,35,4.297122798
+E-1 mesh abscised,1093,0,natural,F,EH1,6,4.339988565
+E-1 mesh abscised,1094,0,natural,F,EH2,21,4.33602601
+E-1 mesh abscised,1095,0,natural,F,EH3,35,4.270567642
+E-15 (alive),1119,16,natural,M,EH3,35,4.282305518
+E-15 (alive),1120,16,natural,M,EH2,21,4.301425863
+E-15 (alive),1121,16,natural,M,EH1,6,4.346383519
+E-15 (alive),1123,16,natural,M,EH1,6,4.315772086
+E-15 (alive),1127,16,natural,M,EH3,35,4.331165864
+E-15 (alive),1128,16,natural,M,EH2,21,4.354828103
+E-7,1129,8,natural,M,EH3,35,4.039066171
+E-7,1130,8,natural,M,EH1,6,4.107804255
+E-7,1132,8,natural,M,EH2,21,4.076004772
+E-17,1136,8,natural,M,EH3,35,4.06403055
+E-17,1139,8,natural,M,EH2,21,4.139413841
+E-17,1140,8,natural,M,EH3,35,4.172723059
+E-17,1141,8,natural,M,EH2,21,4.169713917
+E-17,1142,8,natural,M,EH1,6,4.188850291
+E-17,1143,8,natural,M,EH1,6,4.164841881
+E-2 (yellow),1144,8,natural,F,EH2,21,4.248074142
+E-2 (yellow),1145,8,natural,F,EH2,21,4.195116754
+E-2 (yellow),1147,8,natural,F,EH3,35,4.101041242
+E-2 (yellow),1148,8,natural,F,EH1,6,4.216295361
+E-2 (yellow),1149,8,natural,F,EH3,35,4.155372144
+E-2 (yellow),1150,8,natural,F,EH1,6,4.210791408
+E-9,1161,16,natural,F,EH3,35,4.193011261
+E-9,1162,16,natural,F,EH2,21,4.254322588
+E-9,1163,16,natural,F,EH1,6,4.268384088
+E-11 (alive),1182,0,natural,F,EH1,6,4.268640067
+E-11 (alive),1183,0,natural,F,EH1,6,4.293827278
+E-11 (alive),1184,0,natural,F,EH2,21,4.277099884
+E-11 (alive),1185,0,natural,F,EH3,35,4.24532065
+E-11 (alive),1187,0,natural,F,EH2,21,4.283536148
+E-11 (alive),1188,0,natural,F,EH3,35,4.322076035
+E-14,1209,0,natural,M,EH2,21,4.086254774
+E-14,1211,0,natural,M,EH1,6,4.146245005
+E-14,1212,0,natural,M,EH3,35,4.089770605
+E-14,1213,0,natural,M,EH3,35,4.04598435
+E-14,1214,0,natural,M,EH1,6,4.098425708
+E-14,1216,0,natural,M,EH2,21,4.069360593
+E-3 (#2879) (alive),1233,16,natural,F,EH2,21,4.012612414
+E-3,1234,16,natural,F,EH1,6,4.081840667
+E-3,1235,16,natural,F,EH3,35,4.00181616
+E-3,1237,16,natural,F,EH1,6,4.046528047
+E-3,1239,16,natural,F,EH2,21,3.978147467
+E-3,1240,16,natural,F,EH3,35,3.971917593
+E-7,1395,8,natural,M,EH3,35,4.20316361
+E-7,1396,8,natural,M,EH2,21,4.294469567
+E-7,1399,8,natural,M,EH1,6,4.276679721
+E-9,2004,16,natural,F,EH1,6,4.071970746
+E-9,2005,16,natural,F,EH2,21,4.033225715
+E-9,2008,16,natural,F,EH3,35,3.975898962
+E-1 mesh abscised,NA,0,natural,F,EH0,0,4.516993507
+E-1 mesh abscised,NA,0,natural,F,EH0,0,4.516993507
+E-11 (alive),NA,0,natural,F,EH0,0,4.502743907
+E-11 (alive),NA,0,natural,F,EH0,0,4.519208017
+E-14,NA,0,natural,M,EH0,0,4.490807293
+E-14,NA,0,natural,M,EH0,0,4.506103442
+E-15 (alive),NA,16,natural,M,EH0,0,4.537189798
+E-15 (alive),NA,16,natural,M,EH0,0,4.537189798
+E-17,NA,8,natural,M,EH0,0,4.51998556
+E-17,NA,8,natural,M,EH0,0,4.50415924
+E-2 (yellow),NA,8,natural,F,EH0,0,4.514198408
+E-2 (WSU orange),NA,8,natural,F,EH0,0,4.526176211
+E-3,NA,16,natural,F,EH0,0,4.502946477
+E-3,NA,16,natural,F,EH0,0,4.498713299
+E-7,NA,8,natural,M,EH0,0,4.507089532
+E-7,NA,8,natural,M,EH0,0,4.507089532
+E-9,NA,16,natural,F,EH0,0,4.519086401
+E-9,NA,16,natural,F,EH0,0,4.496586324
